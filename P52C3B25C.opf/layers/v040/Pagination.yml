@@ -1,52 +1,52 @@
-id: 6938a610234d4b07ba90c55b2050e630
+id: bf75cc3d5c9e4b33a5a5bb82bdc779fb
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  3f9527d7eba54f0f814d9322381d3069:
+  3d797717fb5b4268827b2accc97a5a54:
     imgnum: 1307
     reference: ''
     span:
       start: 0
       end: 772
-    note_ref: 1318a4201113457b9e59ebd6d2f8abd0
-  e0376c6a53334b028b6aab986694694d:
+    note_ref: a6643e388acf46d598b00710b67d4b0c
+  af697c748657488b8859b65e9543bf02:
     imgnum: 1308
     reference: ''
     span:
       start: 775
       end: 2167
-    note_ref: 1318a4201113457b9e59ebd6d2f8abd0
-  39417216d9904271b0c523e8f382610e:
+    note_ref: a6643e388acf46d598b00710b67d4b0c
+  45165ee2e86240b6bf68c8629717f21d:
     imgnum: 1309
     reference: ''
     span:
       start: 2170
       end: 3538
-    note_ref: 1318a4201113457b9e59ebd6d2f8abd0
-  37a889d144f944939fdb540ed46ba772:
+    note_ref: a6643e388acf46d598b00710b67d4b0c
+  af5f2ee5c1374cc588ba80a4ef7c81f7:
     imgnum: 1310
     reference: ''
     span:
       start: 3541
       end: 4882
-    note_ref: 1318a4201113457b9e59ebd6d2f8abd0
-  781ea921dbb349b9bf609036fce844d4:
+    note_ref: a6643e388acf46d598b00710b67d4b0c
+  33073002828548619b2e6e5e5ed95d85:
     imgnum: 1311
     reference: ''
     span:
       start: 4885
       end: 5858
-    note_ref: 1318a4201113457b9e59ebd6d2f8abd0
-  1318a4201113457b9e59ebd6d2f8abd0:
+    note_ref: a6643e388acf46d598b00710b67d4b0c
+  a6643e388acf46d598b00710b67d4b0c:
     imgnum: 1312
     reference: ''
     span:
       start: 5861
-      end: 6985
+      end: 6992
 local_ids:
-  3f9527d7eba54f0f814d9322381d3069: 200000
-  e0376c6a53334b028b6aab986694694d: 200001
-  39417216d9904271b0c523e8f382610e: 200002
-  37a889d144f944939fdb540ed46ba772: 200003
-  781ea921dbb349b9bf609036fce844d4: 200004
-  1318a4201113457b9e59ebd6d2f8abd0: 200005
+  3d797717fb5b4268827b2accc97a5a54: 200000
+  af697c748657488b8859b65e9543bf02: 200001
+  45165ee2e86240b6bf68c8629717f21d: 200002
+  af5f2ee5c1374cc588ba80a4ef7c81f7: 200003
+  33073002828548619b2e6e5e5ed95d85: 200004
+  a6643e388acf46d598b00710b67d4b0c: 200005
