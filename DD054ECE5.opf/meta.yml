@@ -1,0 +1,22 @@
+id: DD054ECE5
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-06T09:35:00+00:00'
+last_modified: '2022-05-26T14:16:23.524935+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    efd4:
+      image_group_id: I1PD95885
+      title: ཀླུའི་དབང་ཕྱུག་རྒྱལ་པོའི་སྒྲུབ་ཐབས།
+      total_pages: 1648
+      order: 40
+      base_file: efd4.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
